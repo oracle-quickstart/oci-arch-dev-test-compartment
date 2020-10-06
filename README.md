@@ -63,4 +63,4 @@ When you no longer need the deployment, you can run this command to destroy it:
 
 ## Reference Archirecture
 
-- [Isolate multi-tier and cross-regional development environments by using compartments](https://docs.oracle.com/en/solutions/ha-web-app/index.html)
+- [Isolate multi-tier and cross-regional development environments by using compartments](https://docs.oracle.com/en/solutions/design-dev-test-on-oci/)
