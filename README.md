@@ -1,4 +1,4 @@
-# ci-arch-dev-test-compartment
+# oci-arch-dev-test-compartment
 
 This reference architecture shows how to use compartments to design and configure different environments on Oracle Cloud Infrastructure and how to provision resources to support software development and the release life cycle. 
 
